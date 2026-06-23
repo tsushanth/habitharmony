@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Pre-Android 12 (API 23–30) backup rules.
+    Excludes premium/settings SharedPreferences from Auto Backup to prevent
+    premium state from being restored to a fresh or different install.
+-->
+<full-backup-content>
+    <exclude domain="sharedpref" path="premium_prefs.xml" />
+    <exclude domain="sharedpref" path="settings_prefs.xml" />
+</full-backup-content>

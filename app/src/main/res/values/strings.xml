@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HabitHarmony</string>
+
+    <!-- Navigation -->
+    <string name="nav_habits">Habits</string>
+    <string name="nav_insights">Insights</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Habits Screen -->
+    <string name="habits_title">Today\'s Habits</string>
+    <string name="add_habit">Add habit</string>
+    <string name="habit_completed">Completed</string>
+    <string name="habit_not_completed">Not completed</string>
+    <string name="custom_categories">Custom Categories</string>
+    <string name="custom_reminders">Custom Reminders</string>
+    <string name="custom_reminders_desc">Set custom reminder schedules for each habit</string>
+    <string name="habit_chaining">Habit Chaining</string>
+    <string name="habit_chaining_desc">Link habits together for powerful routines</string>
+    <string name="no_habits_yet">No habits yet. Tap + to add your first habit!</string>
+
+    <!-- Insights Screen -->
+    <string name="insights_title">Insights</string>
+    <string name="current_streak">Current Streak</string>
+    <string name="best_streak">Best Streak</string>
+    <string name="completion">Completion</string>
+    <string name="this_week">This Week</string>
+    <string name="advanced_analytics">Advanced Analytics</string>
+    <string name="weekly_trend">Weekly Trend</string>
+    <string name="habit_correlations">Habit Correlations</string>
+    <string name="export_data">Export Data</string>
+    <string name="export_data_desc">Export your habit data as CSV or PDF</string>
+    <string name="no_data_yet">No data yet</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="restore_purchases">Restore Purchases</string>
+
+    <!-- Paywall -->
+    <string name="upgrade_to_premium">Upgrade to Premium</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="privacy_policy">Privacy Policy</string>
+
+    <!-- Billing -->
+    <string name="billing_not_connected">Billing not connected. Please try again.</string>
+    <string name="purchase_failed">Purchase failed. Please try again.</string>
+    <string name="purchase_pending">Purchase is pending.</string>
+
+    <!-- Permissions -->
+    <string name="notification_permission_title">Enable Notifications</string>
+    <string name="notification_permission_rationale">HabitHarmony needs notification permission to send you habit reminders.</string>
+
+    <!-- General -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="pro_badge">PRO</string>
+    <string name="streak_days">%1$d day streak</string>
+</resources>
